@@ -1,4 +1,4 @@
-![Screenshot 2025-03-16 103940](https://github.com/user-attachments/assets/8d9a8879-1409-467d-85f5-f6ec25b1a97f)![Screenshot 2025-03-16 103955](https://github.com/user-attachments/assets/0b9c84f8-a04d-4cb3-bf39-059c4231b0e4)![Screenshot 2025-03-16 103955](https://github.com/user-attachments/assets/8c2c403e-6eb2-44e5-ac50-7de4e0c33bfa)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -69,14 +69,14 @@ plt.show()
 a=np.array([[13]])
 y_pred1=reg.predict(a)
 print(y_pred1)
-
+```
 
 ## Output:
-![Screenshot 2025-03-16 103845](https://github.com/user-attachments/assets/ec0f5cc3-53c9-4fa2-adcd-188bd485a873)
-![Screenshot 2025-03-16 103909](https://github.com/user-attachments/assets/7d0b12fa-9e0d-4e51-bef0-04e5f4ccc9f0)
-![Screenshot 2025-03-16 103925](https://github.com/user-attachments/assets/4635bf2a-5206-4afa-8728-bbc5964bc676)
-![Screenshot 2025-03-16 103940](https://github.com/user-attachments/assets/ccfc9736-b33c-48cd-8d20-03a690f2ddb8)
-![Screenshot 2025-03-16 103955](https://github.com/user-attachments/assets/65b9aab6-7c82-4342-b90c-99a9bbcc4d61)
+![Screenshot 2025-03-16 103845](https://github.com/user-attachments/assets/b81bdf6e-c239-4462-820c-dfbf112c5fca)
+![Screenshot 2025-03-16 103909](https://github.com/user-attachments/assets/ae38e444-caef-4f4c-b630-c8d9a49650be)
+![Screenshot 2025-03-16 103925](https://github.com/user-attachments/assets/4ade2f06-ce7c-4421-988b-e6c43ea0167f)
+![Screenshot 2025-03-16 103940](https://github.com/user-attachments/assets/8cee403e-eb5b-4cc1-97c8-148e85ccb387)
+![Screenshot 2025-03-16 103955](https://github.com/user-attachments/assets/cd6121b8-68dc-4984-bfa9-a7a5e417f16d)
 
 
 ## Result:
